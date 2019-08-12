@@ -1,0 +1,46 @@
+.beers-list {
+	margin-top: 30px;
+}
+
+.beer-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 30px 15px 50px;
+}
+
+.beer-card img {
+    width: 20%;
+    height: 150px;
+    align-self: center;
+}
+
+.beer-card a {
+	padding-top: 15px;
+
+}
+
+.beer-card h3 {
+	color: #333
+}
+
+.beer-col {
+	background: #f9f9f9;
+	border: 1px solid #eee;
+	position: relative;
+}
+
+.more-details {
+	position: absolute;
+	bottom: 30px;
+}
+
+.abv-show {
+	padding-bottom: 15px;
+	color: #333;
+	font-size: 16px;
+}
+
+.abv-label {
+	font-weight: bold;
+}

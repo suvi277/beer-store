@@ -1,0 +1,13 @@
+.filter-beers {
+	float: right;
+	margin: 40px 0 0; 
+}
+
+.filter-beers label {
+	font-size: 18px;
+}
+
+.filter-beers select {
+	width: 170px;
+	height: 30px;
+}

@@ -1,0 +1,14 @@
+.header {
+	background: #000;
+	padding: 10px;
+}
+
+.header img, .header h2 {
+	float: left;
+}
+
+
+h2 {
+	color: #fff;
+	padding-left: 15px;
+}

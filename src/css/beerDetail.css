@@ -1,0 +1,39 @@
+.beer {
+    padding: 30px 50px;
+    background: #f9f9f9;
+    border: 1px solid #eee;
+}
+
+.beer .beer-img {
+	float: left;
+	width: 25%;
+    margin-right: 30px;
+}
+
+.beer .beer-img img {
+	width: 100%;
+}
+
+.beer h1 {
+	color: #333;
+}
+
+.beer .tagline {
+	font-style: italic;
+	font-size: 14px;
+}
+
+.back-link {
+	padding: 20px 0;
+	display: block;
+}
+
+.abv-detail {
+	padding-bottom: 10px;
+	font-size: 35px;
+	color: #333;
+}
+
+.desc {
+	padding-top: 20px;
+}
